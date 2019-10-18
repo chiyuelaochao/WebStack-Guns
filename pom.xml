@@ -10,10 +10,10 @@
     </parent>
 
     <groupId>com.jsnjfz.manage</groupId>
-    <artifactId>Webstack-Guns</artifactId>
+    <artifactId>webstack-guns</artifactId>
     <version>1.0</version>
 
-    <name>Webstack-Guns</name>
+    <name>webstack-guns</name>
     <description>Webstack-Guns 的spring boot版本</description>
 
     <packaging>jar</packaging>
